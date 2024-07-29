@@ -4,13 +4,14 @@
 
 I might know some things about android/linux kernels/cybersecurity. 
 
+
 * 🧐   Interested in Cybersecurity and Biotech. Recent focus on Networks.
 * 💼   Student at VIT.
 * 🎓   B.Tech. in Computer Science (Cyber Sec)
-* 🌱   Currently learning Networking and math.
+* 🌱   Currently learning about computer Networking from CompTIA
 * 📚   Reading //Outsmart your brain//
 * ⛵   Encouraging people for open source collaborations.
-
+* I use arch btw
 
 <details>
   <summary>Get in touch</summary>
