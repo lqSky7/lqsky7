@@ -5,7 +5,7 @@
 I might know some things about android/linux kernels/cybersecurity. 
 
 
-* 🧐   Interested in Cybersecurity and Biotech. Recent focus on Networks.
+* 🧐   Interested in Cybersecurity and Biotech. Recent focus on DSA.
 * 💼   Student at VIT.
 * 🎓   B.Tech. in Computer Science (Cyber Sec)
 * 🌱   Currently learning about computer Networking from CompTIA
