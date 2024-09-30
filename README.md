@@ -5,19 +5,16 @@
 I might know some things about android/linux kernels/cybersecurity. 
 
 
-* 🧐   Interested in Cybersecurity and Biotech. Recent focus on DSA.
-* 💼   Fresher at VIT Chennai
+* 🧐   Interested in Cybersecurity and Biotech.
+* 💼   Fresher at VIT
 * 🎓   B.Tech. in Computer Science (Cyber Sec)
-* 🌱   Currently learning about computer Networking from CompTIA
-* 📚   Reading //Outsmart your brain//
+* 🌱   Currently learning Webdev
 * ⛵   Encouraging people for open source collaborations.
 * I use arch btw
 
 <details>
   <summary>Get in touch</summary>
   <br>
-
-WIP
 
 * 👑   Some GitHub statistical reports:
 
