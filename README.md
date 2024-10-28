@@ -19,5 +19,5 @@ GitHub: lqsky7
 </p>
 
 <div align="center">
-  <a href="https://github.com/lq7/blob/main/resume.pdf">Download My Resume</a>
+  <a href="https://github.com/lqSky7/lqsky7/blob/main/resume.pdf">Download My Resume</a>
 </div>
