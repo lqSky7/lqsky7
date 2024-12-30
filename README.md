@@ -1,10 +1,10 @@
 ```
-OS: GNU/Linux  
+OS: macOS
 
 Languages.Programming: Python, JavaScript, TypeScript, C++, MATLAB  
 Languages.Web: HTML, CSS
 
-Frameworks: React.js, TailwindCSS, Node.js  
+Frameworks: express.js, TailwindCSS, Node.js  
 Databases: MongoDB  
 Tools: Git, GitHub, Docker (CI/CD with GitHub Actions)
 
